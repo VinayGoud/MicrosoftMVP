@@ -1,0 +1,42 @@
+p{
+
+    color: blue;
+}
+
+div{
+
+    background-color: yellow;
+}
+
+table{
+
+    border: 1px solid black;
+
+}     
+
+th{
+
+    background-color: grey;
+
+    color: white;
+
+}
+
+td{
+
+    background-color: lightgrey;
+
+}
+button{
+
+    background-color: red;
+
+    color: white;
+
+    padding: 10px;
+
+    border: none;
+
+    border-radius: 5px;
+
+}
