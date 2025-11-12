@@ -1,2 +1,0 @@
-# MicrosoftMVP
-Microsoft MVP
